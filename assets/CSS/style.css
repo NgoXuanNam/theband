@@ -111,6 +111,7 @@ html{
 }
 #nav li:hover .subnav{
     display: block;
+    padding: 0;
 }
 
 #nav .btn-search{
